@@ -1,0 +1,1 @@
+This is a introduction to a chess game without the board, commands are simple and will be updated with time, as well as this README
